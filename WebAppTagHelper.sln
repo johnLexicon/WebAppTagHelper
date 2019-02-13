@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTagHelper", "WebAppTagHelper\WebAppTagHelper.csproj", "{CC6DD33F-7872-4395-983F-2E586CAC8D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWebTagHelpers", "..\CustomWebTagHelpers\CustomWebTagHelpers.csproj", "{C298867F-54BE-4B93-AF62-D7F3EC89D2E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6DD33F-7872-4395-983F-2E586CAC8D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6DD33F-7872-4395-983F-2E586CAC8D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6DD33F-7872-4395-983F-2E586CAC8D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6DD33F-7872-4395-983F-2E586CAC8D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C298867F-54BE-4B93-AF62-D7F3EC89D2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C298867F-54BE-4B93-AF62-D7F3EC89D2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C298867F-54BE-4B93-AF62-D7F3EC89D2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C298867F-54BE-4B93-AF62-D7F3EC89D2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
